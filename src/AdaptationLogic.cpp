@@ -17,7 +17,7 @@
 
 #define TRUE 1
 #define FALSE 0
-
+// changes and commit from another computer
 int EST_ERR = 1;
 int MOVE_LEFT;
 // tile position structure
