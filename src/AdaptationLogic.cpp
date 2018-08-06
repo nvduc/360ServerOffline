@@ -13,7 +13,7 @@
 #include <string.h>
 #include <sys/time.h>
 // #include "ga-common.h"
-// #include <stdlib.h>
+#include <stdlib.h>
 
 #define TRUE 1
 #define FALSE 0
